@@ -1,0 +1,12 @@
+{
+	"Name": "Alice",
+	"Age": 28,
+	"Contact": "9845623178",
+	"Company": "Apple",
+	"Address": {
+		"City": "California",
+		"State": "San Francisco",
+		"Country": "USA",
+		"Pincode": 94101
+	}
+}

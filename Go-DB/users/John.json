@@ -1,0 +1,12 @@
+{
+	"Name": "John",
+	"Age": 25,
+	"Contact": "9876543210",
+	"Company": "Google",
+	"Address": {
+		"City": "New york",
+		"State": "New york",
+		"Country": "USA",
+		"Pincode": 12345
+	}
+}

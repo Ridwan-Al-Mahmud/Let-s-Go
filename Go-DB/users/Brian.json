@@ -1,0 +1,12 @@
+{
+	"Name": "Brian",
+	"Age": 30,
+	"Contact": "98651891093",
+	"Company": "Microsoft",
+	"Address": {
+		"City": "Texas",
+		"State": "Texas",
+		"Country": "USA",
+		"Pincode": 14325
+	}
+}

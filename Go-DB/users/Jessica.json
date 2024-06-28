@@ -1,0 +1,12 @@
+{
+	"Name": "Jessica",
+	"Age": 32,
+	"Contact": "9823456789",
+	"Company": "Netflix",
+	"Address": {
+		"City": "California",
+		"State": "Los Gatos",
+		"Country": "USA",
+		"Pincode": 95032
+	}
+}
